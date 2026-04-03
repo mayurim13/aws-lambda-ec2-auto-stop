@@ -1,4 +1,4 @@
-# AWS Lambda EC2 Auto Stop 
+# AWS Lambda EC2 Auto Stop Project 
 
 ## 📌 Problem Statement
 
