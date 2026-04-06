@@ -45,7 +45,7 @@ Only instances with this tag are managed by the Lambda function.
 
 ### 1. Created EC2 Instances and added Tags
 
-![EC2 Instances](./screenshots/Instances-Running.png)
+https://github.com/mayurim13/aws-lambda-ec2-auto-stop/blob/main/Instances-Running.png
 
 ---
 
